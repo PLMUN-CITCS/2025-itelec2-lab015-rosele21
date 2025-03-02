@@ -1,6 +1,6 @@
 total_sum = 0
 while True:
-loopuser_input = input("Enter a number (or 'stop' to finish): ")
+input = input("Enter a number (or 'stop' to finish): ")
     if user_input.strip().lower() == "stop":
         break  
     try:
